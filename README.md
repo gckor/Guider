@@ -1,4 +1,4 @@
-# Guide to Control (Guider): <br>Offline Hierarchical Reinforcement Learning using Subgoal Generation for Long-Horizon and Sparse-Reward Tasks
+# Guide to Control (Guider)
 
 This is pytorch implementation of "Guider"
 
